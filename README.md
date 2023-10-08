@@ -17,7 +17,8 @@
 
 - 📫 How to reach me **golamnobisheikh@gmail.com**
 
-- ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=light)
+- ![Leetcode Stats](https://leetcode.com/GolamNobi/?theme=light)
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
