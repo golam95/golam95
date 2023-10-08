@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Md. Golam Nobi Sheikh</h2>
+<h2 align="left">Hi 👋, I'm Golam Nobi</h2>
 <h3 align="left">Software Engineer | Java Expert</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golam95&label=Profile%20views&color=0e75b6&style=flat" alt="golam95" /> </p>
